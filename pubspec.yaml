@@ -1,4 +1,4 @@
-name: pushnotification
+name: sqlitecrud
 description: A new Flutter project.
 publish_to: 'none' 
 
@@ -14,6 +14,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   sqflite: ^2.3.0
   sqflite_common_ffi: ^2.3.0+3
+  path_provider: ^2.1.1
 
 dev_dependencies:
   flutter_test:
